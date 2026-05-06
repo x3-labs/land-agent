@@ -27,7 +27,7 @@
 3. Добавить hook-form.js перед `</body>`:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/x3-labs/hook-form@v1.0.0/hook-form.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/x3-labs/hook-form@v1.0.0/hook-form.min.js"></script>
 <script>
   HookForm.init({
     webhook: 'WEBHOOK_URL'
