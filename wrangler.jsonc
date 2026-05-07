@@ -1,0 +1,7 @@
+{
+    "name": "project-name",
+    "compatibility_date": "2026-00-00",
+    "assets": {
+        "directory": "./public"
+    }
+}
